@@ -44,18 +44,31 @@ Testing Strategy: Develop a plan for testing the software throughout the develop
 
 Implementation and Coding:
 Follow coding standards and best practices to ensure code quality and maintainability.
+
 Use version control and collaborative development tools effectively.
+
 Documentation: Document the design decisions, architecture, and code to aid in future maintenance and understanding.
+
 Deployment and Maintenance: Plan for deployment, monitoring, and ongoing maintenance of the software after it goes live.
 
 Techniques and Strategies:
+
 Modularity and Encapsulation: Design components that are modular and encapsulated, promoting separation of concerns and easier maintenance.
+
 Use of Design Patterns: Apply appropriate design patterns to solve recurring design problems effectively.
+
 Iterative Design: Use iterative and incremental approaches (e.g., Agile methodologies) to refine the design based on continuous feedback and evolving requirements.
+
 UML Diagrams: Utilize Unified Modeling Language (UML) diagrams such as class diagrams, sequence diagrams, and use case diagrams to visualize and communicate the design.
+
 Risk Analysis: Identify and mitigate potential risks early in the design phase to minimize impact during implementation.
+
 Prototyping and Proof of Concepts: Build prototypes or proof of concepts to validate design decisions and gather feedback from stakeholders and users.
+
 User-Centered Design: Incorporate principles of user-centered design to ensure the software meets the needs and expectations of its intended users.
+
 Performance Considerations: Design with performance in mind, considering factors like scalability, response time, and resource utilization.
+
 Security Considerations: Integrate security measures throughout the design to protect data and prevent vulnerabilities.
+
 Documentation and Communication: Maintain clear documentation of the design rationale, decisions, and interfaces to facilitate collaboration and future maintenance.
